@@ -9,13 +9,15 @@
 ## 使用
 
 使用VMWare开启虚拟机。
-
 用户名root密码六个空格。
 
 ## 运行
 点击桌面run.sh可见两个示例。
 双击run.sh
-选择[Run]
+![image 双击run.sh](https://github.com/xuyaozhong/pdlemulator/blob/main/1115a.PNG)
+
+选择Run
+![image 选择Run](https://github.com/xuyaozhong/pdlemulator/blob/main/1115b.PNG)
 
 
 
@@ -25,3 +27,5 @@
 
 运行/root/printer < [PCLXL文件]
 可见打印效果。
+
+![image ](https://github.com/xuyaozhong/pdlemulator/blob/main/1115c.PNG)
